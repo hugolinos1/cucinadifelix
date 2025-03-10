@@ -90,7 +90,7 @@ export function Home() {
               Notre Histoire
             </h2>
             <p className="mx-auto mt-6 max-w-3xl text-lg text-gray-600">
-              L'Association "Les amis d'un Jardin pour Félix", en partenariat avec
+              L'association "Les amis d'un Jardin pour Félix", en partenariat avec
               l'épicerie italienne LA DOLCE VITA, est heureuse de proposer des cours
               de cuisine italienne. Ces cours sont animés bénévolement par le
               truculent Rocco. Les produits proviennent de l'épicerie La Dolce Vita,
