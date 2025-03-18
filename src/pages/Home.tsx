@@ -64,8 +64,7 @@ export function Home() {
               </div>
               <h3 className="mt-6 text-lg font-medium">Expert Passionné</h3>
               <p className="mt-2 text-gray-600">
-                Des cours animés par Rocco, un chef italien authentique et
-                passionné
+                Des cours animés par Rocco, un passionné de cuisine italienne authentique
               </p>
             </div>
 
